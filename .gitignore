@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignoring .Rproj file
+# so it doesn't interfere with other people's computers
+*.Rproj
